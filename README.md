@@ -1,2 +1,2 @@
 # instagram_projeto
-Praticando front end instagram
+Praticando front end do instagram
